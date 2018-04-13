@@ -1,3 +1,8 @@
+#Google Friday 
+3/16/2018
+
+So far not much has been achieved for my google friday. I have been lacking when it came to paying attation to it because of my time trying to focus the main homework/ other class work as well.
+
 #Google Friday
 2/16/2018
 
