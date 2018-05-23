@@ -1,3 +1,4 @@
+#weeb
 number = int(raw_input("How depressed are you on a scale to 1-100"))
 Yes = ("Yes")
 No = ("No")
