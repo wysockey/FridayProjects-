@@ -1,0 +1,39 @@
+name = input("Medic" + ":What is your name son?")
+print ("Ah, " + name + "now please choose something  that is wrong with you.") 
+print (" Problems you might be having are as follows. Please choose one!")
+print("(1)Cancer")
+print("(2)Food Poisening")
+print("(3)Needing a Sandvich")
+print("(4)Depression")
+print("(5)Withdrawl")
+#trying to make it like a doctor
+#Rating depression on scale link according to professionals : https://emedicine.medscape.com/article/1859039-overview
+#Rating on wikipedia because school blocked most of my sources. :https://en.wikipedia.org/wiki/Rating_scales_for_depression
+number = int(raw_input("How depressed are you on a scale to 1-100. 1 being not depressed at all and 100 being your very depressed."))
+Yes = ("Yes")
+No = ("No")
+if(number =< 90.0):
+        print("So your really happy then?")
+        Yah = raw_input():
+        if(Yah =="Yes" or Yah=="yes"):
+                print("Okay, then you seem like your doing fine.")
+        Nay = raw_input():
+        if (Nay== "No" or Nay== "no"):
+                print("Now why is that?")
+		reason= raw_input():
+		if(reason== " "):
+			print("Well then you have been lying to yourself for to long. Its time to start a fresh life")
+elif(75.0 =< number >= 90.0 ):
+        print("Okay, so your happy, but to a certain extent.")
+        cancer = raw_input():
+        if(cancer == "Yes" or cancer == "yes"):
+                print("Okay,so your doing good. Keep it up and dont watch and anime!")
+        dank= raw_input():
+        if ("No")or ("no"):
+                print("Time for you to die....")
+elif(number = 98.6):
+        print("Congratulations, you are normal and healthy!")
+elif(96.0 < number <98.6):
+        print ("Your somewhat normal in tempeture!")
+elif(98.6 < number < 99.0):
+        print("Your still somewhat normal in tempeture!")
